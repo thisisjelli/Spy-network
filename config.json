@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Connection",
-    "colorLabel": "Role during war",
+    "colorLabel": "Role during war", "Pink"
     "nodeLabel": "Name"
   },
   "features": {
